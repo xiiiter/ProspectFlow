@@ -1,0 +1,26 @@
+# Web framework
+flask>=3.0.0
+
+# Playwright (headless browser for WhatsApp Web + scraping)
+playwright>=1.44.0
+
+# Excel / spreadsheets
+openpyxl>=3.1.0
+
+# HTTP requests
+requests>=2.31.0
+
+# Google API (Gmail)
+google-auth>=2.29.0
+google-auth-oauthlib>=1.2.0
+google-api-python-client>=2.127.0
+
+# HTML parsing / scraping
+beautifulsoup4>=4.12.0
+lxml>=5.2.0
+
+# Environment variables
+python-dotenv>=1.0.0
+
+# Utilities
+tqdm>=4.66.0

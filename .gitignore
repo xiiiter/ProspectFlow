@@ -1,0 +1,38 @@
+# Ambientes e configuracoes locais
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+env/
+
+# Credenciais e sessoes
+credentials.json
+token.json
+wa_session.json
+wa_profile/
+PyWhatKit_DB.txt
+
+# Dados gerados pela aplicacao
+data/leads/*
+data/logs/*
+!data/leads/.gitkeep
+!data/logs/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+
+# Logs e arquivos temporarios
+*.log
+*.tmp
+*.bak
+
+# Ferramentas locais
+.claude/*.local.json
+
+# Sistema operacional
+.DS_Store
+Thumbs.db

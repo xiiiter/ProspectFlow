@@ -1,6 +1,6 @@
-# LeadPilot
+# ProspectFlow
 
-LeadPilot is a web dashboard for finding local business leads, enriching commercial data, generating outreach messages, and tracking follow-ups through email, WhatsApp, and a lightweight CRM.
+ProspectFlow is a web dashboard for finding local business leads, enriching commercial data, generating outreach messages, and tracking follow-ups through email, WhatsApp, and a lightweight CRM.
 
 ## Features
 
